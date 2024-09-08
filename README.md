@@ -29,3 +29,6 @@ I’m excited to share my latest project—a comprehensive Power BI dashboard an
 ## 💡 Why This Matters:
 
 Leveraging tools like Power BI allows businesses to identify trends, optimize strategies, and uncover growth opportunities. This dashboard showcases the importance of data visualization in driving business success.
+
+
+<img width="616" alt="Vehicle Dashboard Pic 1" src="https://github.com/user-attachments/assets/bcbd08cf-b15c-41b4-80a9-dbc09290d391">
